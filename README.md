@@ -1,1 +1,1 @@
-# git-subtree-b
+# git-subtree-common
